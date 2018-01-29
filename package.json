@@ -37,7 +37,7 @@
     "rw": "^1.3.3",
     "shuffle-seed": "^1.1.6",
     "sort-object": "^0.3.2",
-    "supercluster": "^2.3.0",
+    "supercluster": "^3.0.2",
     "through2": "^2.0.3",
     "tinyqueue": "^1.1.0",
     "unassertify": "^2.0.0",
